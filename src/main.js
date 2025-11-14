@@ -1,0 +1,1 @@
+console.log("WPlace userscript loaded!");
